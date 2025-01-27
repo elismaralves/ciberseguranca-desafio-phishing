@@ -12,7 +12,7 @@
 
 01. Entre no terminal de comando do kali linux
 - Terminal do kali linux em modo usuário padrão:
-![Modo Usuário Padrão](./ModoUsuárioPadrão.png)
+- ![Modo Usuário Padrão](./ModoUsuárioPadrão.png)
 02. Mude do usuário padrão para o usuário root
 - Acesso root - comando ->: ``` sudo su ```
 03. Execute a ferramenta setoolkit
