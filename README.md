@@ -12,7 +12,6 @@
 
 01. Entre no terminal de comando do kali linux
 - Terminal do kali linux em modo usuário padrão:
-- ![Modo Usuário Padrão](https://github.com/user-attachments/assets/c1f235ac-7e4f-4a83-bef5-beed0ff75826)
 ![Modo Usuário Padrão](./ModoUsuárioPadrão.png)
 02. Mude do usuário padrão para o usuário root
 - Acesso root - comando ->: ``` sudo su ```
