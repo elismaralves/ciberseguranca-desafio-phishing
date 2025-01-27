@@ -18,7 +18,7 @@
 > ![Modo Usuário Padrão](./ModoRootComando1.png)
 - Digite a senha:
 > ![Modo Usuário Padrão](./ModoRootComando2.png)
-- Agora seu prompt indica que você está no modo root:
+- Agora seu prompt indica o modo root:
 - Agora seu prompt indica que você está no modo root:
 > ![Modo Usuário Padrão](./ModoRootComando3.png)
 03. Execute a ferramenta setoolkit
