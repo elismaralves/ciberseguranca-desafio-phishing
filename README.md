@@ -15,8 +15,14 @@
 > ![Modo Usuário Padrão](./ModoUsuárioPadrão.png)
 02. Mude do usuário padrão para o usuário root
 - Acesso root - comando ->: ``` sudo su ```
+> ![Modo Usuário Padrão](./ModoRootComando1.png)
+- Digite a senha:
+> ![Modo Usuário Padrão](./ModoRootComando2.png)
+- Agora seu prompt indica que você está no modo root:
+> ![Modo Usuário Padrão](./ModoRootComando3.png)
 03. Execute a ferramenta setoolkit
 - Iniciando o setoolkit - comando ->: ``` setoolkit ```
+- 
 04. Selecione o tipo de ataque: ``` Social-Engineering Attacks ```
 - Tipo de ataque - opção ->: ``` 1 ```
 05. Selecione o Vetor de ataque: ``` Web Site Attack Vectors ```
