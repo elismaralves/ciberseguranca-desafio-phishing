@@ -40,8 +40,8 @@
 08. Obtendo o endereço da máquina kali linux
 - Obtendo o endereço da máquina - comando ->: ``` ifconfig ```
 > ![Modo Usuário Padrão](./ifconfig2.png)
->>> A seta nº 1 indica o comando digitado
->>> A seta nº 2 indica o endereço IP da máquina kali linux
+  - A seta nº 1 indica o comando digitado
+  - A seta nº 2 indica o endereço IP da máquina kali linux
 09. clone a URL do facebook
 - URL para clone ->: http://www.facebook.com
 > ![Modo Usuário Padrão](./facebook.png)
