@@ -21,7 +21,7 @@
 - Agora seu prompt indica o modo root:
 > ![Modo Usuário Padrão](./ModoRootComando3.png)
 03. Execute a ferramenta setoolkit
-03. Ferramenta setoolkit
+03. Execute a ferramenta setoolkit
 - Iniciando o setoolkit - comando ->: ``` setoolkit ```
 > ![Modo Usuário Padrão](./Setoolkit1.png)
 - setoolkit em execução:
