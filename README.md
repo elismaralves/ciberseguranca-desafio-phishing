@@ -44,8 +44,13 @@
   - A seta nº 2 indica o endereço IP da máquina kali linux
 09. clone a URL do facebook
 - URL para clone ->: http://www.facebook.com
-> ![Modo Usuário Padrão](./facebook1.png)
-10. Aguarde a clonagem da página do facebook pelo kali linux e acesse através de um navegador de uma outra máquina (host) que esteja na mesma rede utilizando o IP da máquina kali linux.
+> ![Modo Usuário Padrão](./Facebook1.png)
+10. Aguarde a clonagem da página do facebook pelo kali linux 
+> ![Modo Usuário Padrão](./Clone_Facebook1.png)
+11. Acesse através de um navegador de uma outra máquina (host) que esteja na mesma rede utilizando o IP da máquina kali linux.
+> ![Modo Usuário Padrão](./Clone_Facebook2.png)
+> >
+> >
 - URL para clone ->: http://www.facebook.com
 > ![Modo Usuário Padrão](./facebook1.png)
 
