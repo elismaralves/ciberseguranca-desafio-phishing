@@ -20,20 +20,20 @@
 > ![Modo Usuário Padrão](./ModoRootComando2.png)
 - Agora seu prompt indica o modo root:
 > ![Modo Usuário Padrão](./ModoRootComando3.png)
-03. Execute a
+03. Exec
 - Iniciando o setoolkit - comando ->: ``` setoolkit ```
 > ![Modo Usuário Padrão](./Setoolkit1.png)
 - setoolkit em execução:
 > ![Modo Usuário Padrão](./Setoolkit2.png)
 04. Selecione o tipo de ataque: ``` Social-Engineering Attacks ```
 - Tipo de ataque - opção ->: ``` 1 ```
-> ![Modo Usuário Padrão](./Setoolkit3.png)
+> ![Modo Usuário Padrão](./Setoolkit4.png)
 05. Selecione o Vetor de ataque: ``` Web Site Attack Vectors ```
 - Vetor de ataque - opção ->: ``` 2 ```
-> ![Modo Usuário Padrão](./Setoolkit4.png)
+> ![Modo Usuário Padrão](./Setoolkit6.png)
 06. Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque - opção ->: ``` 3 ```
-> ![Modo Usuário Padrão](./Setoolkit5.png)
+> ![Modo Usuário Padrão](./Setoolkit8.png)
 07. Método de ataque: ``` Site Cloner ```
 - Método de ataque - opção ->: ``` 2 ```
 08. Obtendo o endereço da máquina kali linux
