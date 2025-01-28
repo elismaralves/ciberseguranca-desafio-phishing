@@ -39,7 +39,7 @@
 > ![Modo Usuário Padrão](./Setoolkit10.png)
 08. Obtendo o endereço da máquina kali linux
 - Obtendo o endereço da máquina - comando ->: ``` ifconfig ```
-> ![Modo Usuário Padrão](./ifconfig.png)
+> ![Modo Usuário Padrão](./ifconfig2.png)
 09. clone a URL do facebook
 - URL para clone ->: http://www.facebook.com
 > ![Modo Usuário Padrão](./facebook.png)
