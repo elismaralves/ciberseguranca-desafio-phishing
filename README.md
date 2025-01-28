@@ -20,7 +20,7 @@
 > ![Modo Usuário Padrão](./ModoRootComando2.png)
 - Agora seu prompt indica o modo root:
 > ![Modo Usuário Padrão](./ModoRootComando3.png)
-03. Exec
+03. Execute a ferramenta setoolkit
 - Iniciando o setoolkit - comando ->: ``` setoolkit ```
 > ![Modo Usuário Padrão](./Setoolkit1.png)
 - setoolkit em execução:
@@ -36,9 +36,12 @@
 > ![Modo Usuário Padrão](./Setoolkit8.png)
 07. Método de ataque: ``` Site Cloner ```
 - Método de ataque - opção ->: ``` 2 ```
+> ![Modo Usuário Padrão](./Setoolkit10.png)
 08. Obtendo o endereço da máquina kali linux
 - Obtendo o endereço da máquina - comando ->: ``` ifconfig ```
+> ![Modo Usuário Padrão](./ifconfig.png)
 09. clone a URL do facebook
 - URL para clone ->: http://www.facebook.com
+> ![Modo Usuário Padrão](./facebook.png)
 
 ### Resutados
