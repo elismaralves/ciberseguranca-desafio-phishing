@@ -22,9 +22,10 @@
 > ![Modo Usuário Padrão](./ModoRootComando3.png)
 03. Execute a ferramenta setoolkit
 - Iniciando o setoolkit - comando ->: ``` setoolkit ```
-- 
+> ![Modo Usuário Padrão](./Setoolkit1.png)
 04. Selecione o tipo de ataque: ``` Social-Engineering Attacks ```
 - Tipo de ataque - opção ->: ``` 1 ```
+> ![Modo Usuário Padrão](./Setoolkit2.png)
 05. Selecione o Vetor de ataque: ``` Web Site Attack Vectors ```
 - Vetor de ataque - opção ->: ``` 2 ```
 06. Método de ataque: ```Credential Harvester Attack Method ```
