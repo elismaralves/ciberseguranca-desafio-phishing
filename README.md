@@ -55,3 +55,8 @@
 > ![Modo Usuário Padrão](./facebook1.png)
 
 ### Resutados
+
+> ![Modo Usuário Padrão](./facebook1.png)
+> ![Modo Usuário Padrão](./facebook1.png)
+
+
