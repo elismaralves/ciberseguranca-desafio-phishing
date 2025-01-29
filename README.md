@@ -80,6 +80,6 @@ Agora, caso você queira ver a exibição do login e senha, você pode usar este
 
 > >
 - URL para clone ->: http://www.facebook.com
-> ![Modo Usuário Padrão](./facebook1.png)
+> ![Modo Usuário Padrão](./WebTemplate_Google1.png)
 
 
