@@ -55,8 +55,10 @@
 > ![Modo Usuário Padrão](./facebook1.png)
 
 ### Resutados
-
-> ![Modo Usuário Padrão](./facebook1.png)
-> ![Modo Usuário Padrão](./facebook1.png)
+- O resultado difere do exibido no vídeo do Cassiano Peres, isso se dá, por conta do facebook utilizar boas práticas para tentar defender os campos login e senha via scripts de codificação 64 e hashing como citado no artigo: https://www.dio.me/articles/sobre-o-setoolkit-e-o-facebook.
+- Veja as imagens a seguir:
+> ![Modo Usuário Padrão](./Clone_Facebook3a.png)
+> 
+> ![Modo Usuário Padrão](./Clone_Facebook3b.png)
 
 
