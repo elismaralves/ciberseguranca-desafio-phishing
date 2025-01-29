@@ -50,15 +50,31 @@
 11. Acesse através de um navegador de uma outra máquina (host) que esteja na mesma rede utilizando o IP da máquina kali linux.
 > ![Modo Usuário Padrão](./Clone_Facebook2.png)
 > >
-> >
-- URL para clone ->: http://www.facebook.com
-> ![Modo Usuário Padrão](./facebook1.png)
 
 ### Resutados
+
+- O resultado difere do exibido no vídeo do Cassiano Peres, isso se dá, por conta do facebook utilizar de boas práticas para tentar defender os campos de login e senha via scripts de codificação 64 e hashing como citado no artigo: https://www.dio.me/articles/sobre-o-setoolkit-e-o-facebook
+
+- 
 - O resultado difere do exibido no vídeo do Cassiano Peres, isso se dá, por conta do facebook utilizar boas práticas para tentar defender os campos login e senha via scripts de codificação 64 e hashing como citado no artigo: https://www.dio.me/articles/sobre-o-setoolkit-e-o-facebook.
 - Veja as imagens a seguir:
 > ![Modo Usuário Padrão](./Clone_Facebook3a.png)
 > 
 > ![Modo Usuário Padrão](./Clone_Facebook3b.png)
 
+
+> >
+- URL para clone ->: http://www.facebook.com
+> ![Modo Usuário Padrão](./facebook1.png)
+
+Agora, caso você queira ver a exibição do login e senha, você pode usar estes passos:
+
+* Ao executar os passos de 1 até o 6 conforme descrito abaixo, mudaremos as opções a partir do sétimo passo.
+01. Entre no terminal de comando do kali linux
+02. Mude do usuário padrão para o usuário root
+03. Iniciando o setoolkit - comando ->: ``` setoolkit ```
+04. Selecione o tipo de ataque: ``` Social-Engineering Attacks ``` - opção ->: ``` 1 ```
+05. Selecione o Vetor de ataque: ``` Web Site Attack Vectors ``` - opção ->: ``` 2 ```
+06. Método de ataque: ```Credential Harvester Attack Method ``` - opção ->: ``` 3 ```
+7. 
 
