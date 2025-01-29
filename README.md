@@ -53,6 +53,8 @@
 
 ### Resutados
 
+> ![Modo Usuário Padrão](./ResultadoDiferente.png)
+
 - O resultado difere do exibido no vídeo do Cassiano Peres, isso se dá, por conta do facebook utilizar de boas práticas para tentar defender os campos de login e senha via scripts de codificação 64 e hashing como citado no artigo: https://www.dio.me/articles/sobre-o-setoolkit-e-o-facebook
 
 
@@ -81,5 +83,13 @@ Agora, caso você queira ver a exibição do login e senha, você pode usar este
 > >
 - URL para clone ->: http://www.facebook.com
 > ![Modo Usuário Padrão](./WebTemplate_Google1.png)
+
+> ![Modo Usuário Padrão](./WebTemplate_Google2.png)
+
+> ![Modo Usuário Padrão](./WebTemplate_Google2b.png)
+
+> ![Modo Usuário Padrão](./WebTemplate_Google2c.png)
+
+> ![Modo Usuário Padrão](./WebTemplate_Google2d.png)
 
 
