@@ -75,8 +75,8 @@ Agora, caso você queira ver a exibição do login e senha, você pode seguir os
 7. Método de ataque: ``` Web Templates ```
 - Método de ataque - opção ->: ``` 1 ```
 > ![Modo Usuário Padrão](./WebTemplate_Google1.png)
-8. Selecione um template
-- Template - opção ->: ``` 2 ```
+8. Selecione um templete
+- Templete - opção ->: ``` 2 ```
 > ![Modo Usuário Padrão](./WebTemplate_Google2.png)
 9. Aguarde o kali linux carregar o template
 > ![Modo Usuário Padrão](./WebTemplate_Google2b.png)
