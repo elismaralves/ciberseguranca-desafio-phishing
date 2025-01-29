@@ -74,14 +74,15 @@ Agora, caso você queira ver a exibição do login e senha, você pode usar este
 7. Método de ataque: ``` Web Templates ```
 - Método de ataque - opção ->: ``` 1 ```
 > ![Modo Usuário Padrão](./WebTemplate_Google1.png)
-8. Obtendo o endereço da máquina kali linux
-- Obtendo o endereço da máquina - comando ->: ``` ifconfig ```
+8. Selecione um template
+- Template - opção ->: ``` 2 ```
 > ![Modo Usuário Padrão](./WebTemplate_Google2.png)
-9.
+9. Aguarde o kali linux carregar o template
 > ![Modo Usuário Padrão](./WebTemplate_Google2b.png)
-10.
+10. Acesse através de um navegador de uma outra máquina (host) que esteja na mesma rede utilizando o IP da máquina kali linux.
 > ![Modo Usuário Padrão](./WebTemplate_Google2c.png)
-11.
+
+
+### Resutados
+ 
 > ![Modo Usuário Padrão](./WebTemplate_Google2d.png)
-
-
