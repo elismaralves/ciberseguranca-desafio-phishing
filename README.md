@@ -63,7 +63,7 @@
 
 Agora, caso você queira ver a exibição do login e senha, você pode usar estes passos:
 
-* Ao executar os passos de 1 até o 6 conforme descrito abaixo, mudaremos as opções a partir do sétimo passo.
+* Os passos do 1 (um) ao 6 (sexto) são iguais aos descritos acima, mudaremos as opções a partir do sétimo passo.
 
 1. Entre no terminal de comando do kali linux
 2. Mude do usuário padrão para o usuário root
